@@ -29,7 +29,7 @@ body, html {
   aborder: 1px solid red;
 }
 .header{
-  background-color: #00FFFF;
+  background-color: ##24C4C6;
   padding: 10px 0px;
   position: fixed;
   width: 100%;
@@ -289,7 +289,7 @@ body, html {
 }
 
 footer{
-  background-color: #00FFFF;
+  background-color: ##24C4C6;
   position: absolute;
   bottom: 0;
   width: 100%;
